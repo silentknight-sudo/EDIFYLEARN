@@ -1,4 +1,4 @@
-# Mindmap Generator
+# EDIFY LEARN Mindmap Generator
 
 ## Description
 
@@ -28,7 +28,7 @@ Mindmap Generator is a dynamic web application that creates visual mindmaps base
 
 1. Clone the repository:
    ```
-   git clone https://github.com/.git
+   git clone https://github.com/silentknight-sudo/EDIFYLEARN.git
    ```
 
 2. Navigate to the project directory:
@@ -100,5 +100,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
 
-Satvik - satvik@buildfastwithai.com
+Satvik - vksp207@gmail.com
 # EDIFYLEARN
