@@ -33,7 +33,7 @@ Mindmap Generator is a dynamic web application that creates visual mindmaps base
 
 2. Navigate to the project directory:
    ```
-   cd ai-mindmaps
+   cd EDIFYLEARN
    ```
 
 3. Install dependencies:
