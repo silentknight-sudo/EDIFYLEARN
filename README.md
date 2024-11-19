@@ -99,6 +99,5 @@ The app provides detailed error messages and troubleshooting steps if an issue o
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Contact
-
-Satvik - vksp207@gmail.com
+Vivek - vksp207@gmail.com
 # EDIFYLEARN
